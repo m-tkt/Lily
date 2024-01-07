@@ -18,8 +18,8 @@ class SettingBtn extends StatelessWidget {
       },
       // 表示アイコン
       icon: const Icon(Icons.settings),
-      // アイコン色
-      color: Colors.pink,
+      highlightColor: Colors.transparent,
+      hoverColor: Colors.transparent,
       // サイズ
       iconSize: 52,
     );
