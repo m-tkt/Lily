@@ -1,2 +1,3 @@
-2024/01/08-01:48:01.382 f903 Creating DB /private/var/folders/4g/s_sk3yp50_g9ct3f3vtwy00w0000gn/T/flutter_tools.ECbnkt/flutter_tools_chrome_device.6MYs5h/Default/shared_proto_db/metadata since it was missing.
-2024/01/08-01:48:01.428 f903 Reusing MANIFEST /private/var/folders/4g/s_sk3yp50_g9ct3f3vtwy00w0000gn/T/flutter_tools.ECbnkt/flutter_tools_chrome_device.6MYs5h/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/01/08-13:10:32.985 8107 Reusing MANIFEST /private/var/folders/4g/s_sk3yp50_g9ct3f3vtwy00w0000gn/T/flutter_tools.Ife5om/flutter_tools_chrome_device.tbx9PP/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/01/08-13:10:32.986 8107 Recovering log #3
+2024/01/08-13:10:32.987 8107 Reusing old log /private/var/folders/4g/s_sk3yp50_g9ct3f3vtwy00w0000gn/T/flutter_tools.Ife5om/flutter_tools_chrome_device.tbx9PP/Default/shared_proto_db/metadata/000003.log 
