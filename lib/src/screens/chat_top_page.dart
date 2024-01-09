@@ -12,9 +12,18 @@ class ChatTopPage extends StatelessWidget {
           centerTitle: true,
         ),
         body: ListView(children: const <Widget>[
-          ChatCard(),
-          ChatCard(),
-          ChatCard(),
+          Padding(
+            padding: EdgeInsets.only(left: 0, top: 10, right: 0, bottom: 10),
+            child: ChatCard(),
+          ),
+          Padding(
+            padding: EdgeInsets.only(left: 0, top: 10, right: 0, bottom: 10),
+            child: ChatCard(),
+          ),
+          Padding(
+            padding: EdgeInsets.only(left: 0, top: 10, right: 0, bottom: 10),
+            child: ChatCard(),
+          )
         ]));
   }
 }
